@@ -1,0 +1,18 @@
+<style type="text/css">
+body {
+	background-color:#535353;
+}
+#fbLikeIframe{
+	position: absolute;
+	top:0px;
+	left:0px;
+	background-color:#535353;
+}
+</style>
+<html>
+<head>
+</head>
+<body>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fausbildungsbericht.net%2F&amp;layout=button_count&amp;show_faces=true&amp;width=300&amp;height=25&amp;action=like&amp;font=arial&amp;colorscheme=light" id="fbLikeIframe" name="fbLikeIframe" allowtransparency="true" class="fbLikeContainer" style="border: medium none; overflow: hidden; width: auto; height: auto; display: inline;" frameborder="0" scrolling="no"></iframe>
+</body>
+</html>

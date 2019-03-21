@@ -1,0 +1,9 @@
+vorname;
+nachname;
+beruf;
+fachrichtung;
+firma;
+abteilung;
+beginn;
+ende;
+ausbilder;

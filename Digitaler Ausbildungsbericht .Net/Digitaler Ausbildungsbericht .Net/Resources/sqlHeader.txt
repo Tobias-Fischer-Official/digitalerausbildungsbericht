@@ -1,0 +1,41 @@
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Datenbank: `reportbackups`
+--
+CREATE DATABASE `reportbackups` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `reportbackups`;
+
+--
+-- Tabellenstruktur für Tabelle `reports`
+--
+
+DROP TABLE IF EXISTS `reports`;
+
+CREATE TABLE IF NOT EXISTS `reports` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `AppWeekNumber` int(11) NOT NULL,
+  `AwayHours` varchar(10) NOT NULL,
+  `CompanyText` varchar(2000) NOT NULL,
+  `DateTime` varchar(10) NOT NULL,
+  `Delivered` varchar(5) NOT NULL,
+  `Division` varchar(100) NOT NULL,
+  `Holyday` varchar(5) NOT NULL,
+  `Ill` varchar(5) NOT NULL,
+  `InstructionsText` varchar(2000) NOT NULL,
+  `ReportText` varchar(2000) NOT NULL,
+  `SchoolText` varchar(2000) NOT NULL,
+  `WorkHours` varchar(5) NOT NULL,
+  `YearNumber` varchar(4) NOT NULL,
+  `YearWeekNumber` int(11) NOT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2;
+
+--
+-- Daten für Tabelle `reports`
+--

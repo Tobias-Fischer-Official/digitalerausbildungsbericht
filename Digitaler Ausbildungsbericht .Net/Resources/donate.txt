@@ -1,0 +1,26 @@
+<style type="text/css">
+body {
+	background-color:#7D7D7D;
+}
+</style>
+<html>
+<head>
+</head>
+<body>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="blank">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="649SVR8X3JWEA">
+<table>
+<tr><select name="os0">
+	<option value="Kleine Spende">Kleine Spende Ä5,00 EUR</option>
+	<option value="Mittlere Spende">Mittlere Spende Ä10,00 EUR</option>
+	<option value="Groﬂe Spende">Groﬂe Spende Ä25,00 EUR</option>
+	<option value="XXL Spende">XXL Spende Ä50,00 EUR</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="EUR">
+<input type="image" src="http://ausbildungsbericht.net/spendenbutton.png" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen ñ mit PayPal.">
+<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>
+</body>
+</html>

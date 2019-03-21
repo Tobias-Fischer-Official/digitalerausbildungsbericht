@@ -1,0 +1,13 @@
+<style type="text/css">
+body {
+	background-color:#535353;
+}
+#I1_1313682162441{
+	position: absolute;
+	top:0px;
+	left:0px;
+	background-color:#535353;
+	padding-top:-10px;
+}
+</style>
+<iframe allowtransparency="true" hspace="0" id="I1_1313682162441" marginheight="0" marginwidth="0" name="I1_1313682162441" src="https://plusone.google.com/u/0/_/+1/fastbutton?url=http%3A%2F%2Fausbildungsbericht.net&amp;size=medium&amp;count=true&amp;annotations=&amp;hl=de&amp;jsh=r%3Bgc%2F23123384-f8bf5791#id=I1_1313682162441&amp;parent=http%3A%2F%2Fausbildungsbericht.net&amp;rpctoken=824423806&amp;_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe" style="left: 0pt; top: 0pt; width: 70px; height: 20px; visibility: visible;" tabindex="-1" vspace="0" frameborder="0" scrolling="no" width="100%"></iframe>

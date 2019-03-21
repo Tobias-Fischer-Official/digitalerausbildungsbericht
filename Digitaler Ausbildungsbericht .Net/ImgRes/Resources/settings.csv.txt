@@ -1,0 +1,2 @@
+lastUndoneSetupStep;0
+AutoUpdate;0

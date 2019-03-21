@@ -1,0 +1,2 @@
+C:\Users\skydotnet\Desktop\Digitaler Ausbildungsbericht .Net-20190321T054315Z-001\Digitaler Ausbildungsbericht .Net\TempUpdater\TempUpdater\obj\Debug\TempUpdater.csprojAssemblyReference.cache
+C:\Users\skydotnet\Desktop\Digitaler Ausbildungsbericht .Net-20190321T054315Z-001\Digitaler Ausbildungsbericht .Net\TempUpdater\TempUpdater\obj\Debug\TempUpdater.csproj.GenerateResource.cache

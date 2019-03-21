@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digitaler Ausbildungsbericht .Net", "Digitaler Ausbildungsbericht .Net.csproj", "{6ED9EFF6-EC9F-4B97-AF53-F787E1917BC6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.2.110:8080/tfs/ausbildungsbericht.net
+		SccProjectUniqueName0 = Digitaler\u0020Ausbildungsbericht\u0020.Net.csproj
+		SccLocalPath0 = .
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED9EFF6-EC9F-4B97-AF53-F787E1917BC6}.Debug|x86.ActiveCfg = Debug|x86
+		{6ED9EFF6-EC9F-4B97-AF53-F787E1917BC6}.Debug|x86.Build.0 = Debug|x86
+		{6ED9EFF6-EC9F-4B97-AF53-F787E1917BC6}.Release|x86.ActiveCfg = Release|x86
+		{6ED9EFF6-EC9F-4B97-AF53-F787E1917BC6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

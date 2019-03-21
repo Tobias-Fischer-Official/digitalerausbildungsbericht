@@ -1,0 +1,66 @@
+﻿1. Erheben, Speichern und Veröffentlichen von anonymen Daten zu Analysezwecken
+
+Folgend sind Aktionen aufgelistet, bei denen unser Programm eine Verbindung zu unserem Server aufbaut:
+- Beim Starten des Programms
+- Beim Speichern einer Woche als PDF
+- Bei der Benutzung der Programmbewertung
+- Beim Senden von Feedback
+
+9.a Wahrung Ihrer Anonymität
+
+Im Zuge dieser Verbindung wird ihre IP-Adresse zwar an unseren Server übertragen, jedoch werden vor Speicherung in unserem System
+die letzten 8 Bit dieser IP-Adresse gelöscht, hierdurch wird die IP-Adresse anonymisiert.
+
+9.b Veröffentlichung
+
+Die erhobenen Daten werden in Form einer Nutzungsstatistik auf unserer Website veröffentlicht, diese Statistik ist
+verallgemeinert und erlaubt keinen Rückschluss auf die Art und Weise der Nutzung des Programms durch einen einzelnen User.
+
+9.c Hardware-ID
+
+Das Programm generiert des Weiteren eine eindeutige ID, zusammengesetzt aus Betriebssystem-Version, MAC-Adresse des ersten Netzwerkadapaters und der
+Hardwarelkennung der Festplatte auf welcher sich Laufwerk C: befindet. Der Teil der die MAC-Adresse darstellt, wird ebenfalls vor Speicherung in unser System
+anonymisiert. Die Hardware-ID kann nicht dazu benutzt werden, bestimmte Personen oder ihr Nutzerverhalten zu ermitteln.
+
+9.d Senden von E-Mail-Adressen
+Bei der Sendung von Feedback an den/die Softwareentwickler werden Sie aufgefordert eine E-Mail-Adresse einzugeben, und ihren Namen einzugeben.
+Diese Daten werden nicht in unserem System gespeichert, sondern dienen lediglich der Übermittlung einer E-Mail an des/die Softwareentwickler unseres Teams.
+Eine alternative Möglichkeit ein Feedback anonym abzugeben ist auf unserem Webauftritt unter der URL:
+http://ausbildungsbericht.net/bugs/?do=newtask&project=2 möglich.
+
+3. Verwendung des Facebook-Like-Buttons
+
+Datenschutzerklärung für die Nutzung von Facebook-Plugins
+(Like-Button)
+
+In unserem Programm sind Plugins des sozialen Netzwerks Facebook,
+1601 South California Avenue, Palo Alto, CA 94304, USA integriert.
+Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder
+dem “Like-Button” (“Gefällt mir”) in unserem Programm. Eine Übersicht
+über die Facebook-Plugins finden Sie hier:
+http://developers.facebook.com/docs/plugins/.
+
+Wenn sie in unserem Programm auf den Like-Button klicken, wird ein ein Internetexplorer-Fenster geöffnet,
+welches sie zum Login in Facebook auffordert, oder, wenn sie bereits im Internetexplorer dort eingeloggt sind,
+können Sie den Link zu unserer Website auf Ihrem Facebook-Profil veröffentlichen.
+Weitere Informationen hierzu finden Sie in der
+Datenschutzerklärung von facebook unter
+
+http://de-de.facebook.com/policy.php
+
+Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus, bevor Sie unsere Software benutzen.
+
+4. Verwendung des Google+ Buttons
+
+Unsere Software verwendet die “+1″-Schaltfläche des sozialen Netzwerkes Google Plus, welches von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States betrieben wird (“Google”).
+Der Button ist an dem Zeichen “+1″ auf weißem oder farbigen Hintergrund erkennbar.
+Wenn Sie unsere Software benutzen, die eine solche Schaltfläche enthält, baut das Programm eine direkte Verbindung mit den Servern von Google auf.
+Der Inhalt der “+1″-Schaltfläche  wird von Google direkt an unser Programm übermittelt und eingebunden.
+Wir haben daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt, gehen jedoch davon aus, dass Ihre IP-Adresse mit erfasst wird.
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte Googles Datenschutzhinweisen zu der “+1″-Schaltfläche: http://www.google.com/intl/de/+/policy/+1button.html
+Wenn Sie Google Plus-Mitglied sind und nicht möchten, dass Google über unser Programm Daten über Sie sammelt und mit Ihren bei Google gespeicherten Mitgliedsdaten verknüpft, müssen Sie sich vor verwendung unseres Programms bei Google Plus ausloggen.
+
+5. Einblenden von Werbung und/oder News
+
+In unserem Programm wird eine Fläche eingeblendet, die eine Direkte Verbindung zu unserem Webserver aufbaut, diese Verbindung dient dazu Werbung oder
+Kurz einzublenden.
